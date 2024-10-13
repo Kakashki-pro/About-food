@@ -47,3 +47,6 @@
 
 </body>
 </html>
+git add index.html
+git commit -m "Добавлен index.html"
+git push origin main
